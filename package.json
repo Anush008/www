@@ -19,7 +19,7 @@
     "axios": "^1.2.1",
     "clsx": "^1.2.1",
     "eslint": "8.29.0",
-    "eslint-config-next": "13.0.6",
+    "eslint-config-next": "13.4.19",
     "fs": "^0.0.1-security",
     "fathom-client": "^3.5.0",
     "gray-matter": "^4.0.3",
