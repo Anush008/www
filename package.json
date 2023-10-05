@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@auth0/nextjs-auth0": "^2.0.1",
+    "@auth0/nextjs-auth0": "^2.7.0",
     "@mapbox/rehype-prism": "^0.8.0",
     "@splidejs/react-splide": "^0.7.12",
     "@splidejs/splide-extension-grid": "^0.4.1",
